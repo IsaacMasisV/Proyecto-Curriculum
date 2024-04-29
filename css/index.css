@@ -1,0 +1,61 @@
+body{
+    border: 300px solid rgb(255, 0, 0);
+    
+    
+}
+.Foto {
+    width: 275px;
+margin-left: 240px;
+margin-top:  -265px;
+   border: 20px solid black;   
+}
+
+
+
+.contenedor{
+    border: 4px solid rgb(183, 183, 183);
+    
+    width: 560px;
+
+}
+
+
+
+
+
+
+
+
+.cuadro{
+    
+    background-color: rgb(200, 198, 198);
+    width: 200px;
+    margin-top: 50px;
+  
+}
+
+
+.laboral{
+   float: inline-end;
+  margin-right: 450px;
+  margin-left: -35000;
+  margin-top: -370px;
+}
+
+hr{
+    width: 200px;
+    margin-left: 0px;
+}
+
+
+.cuadro1{
+background-color: rgb(198, 198, 198);
+width: 350px;
+margin-left: 220px;
+}
+.cuadro2{
+
+    float: inline-end;
+    margin-right: 7px;
+    margin-top: -70px;
+}
