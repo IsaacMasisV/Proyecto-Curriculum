@@ -76,7 +76,6 @@ body.dark img {
 color: black;
 
 }
-
 .dark .cuadro1{
     color: black;
     
@@ -88,7 +87,6 @@ color: black;
 .dark a{
     color: white;
 }
-
 .dark #label_toggle{
     text-shadow: 0 0 5px hwb(79 0% 0%),
     0 0 5px rgb(208, 255, 0),
@@ -101,15 +99,12 @@ color: black;
     0 0 20px rgb(64, 0, 255),
     0 0 30px rgb(0, 115, 255);
 }
-
 .dark .Foto2{
     text-shadow:  0 0 5px lightseagreen,
     0 0 5px lightseagreen,
     0 0 20px lightseagreen,
     0 0 30px lightseagreen;
 }
-
-
 .correo{
     color: #ca1717;
     font-size: 25px;
@@ -125,10 +120,6 @@ color: black;
     0 0 20px rgb(255, 0, 0),
     0 0 30px rgb(255, 255, 255);
 }
-
-
-
-
 .whatsapp{color: rgb(6, 164, 6);
     font-size: 30px;
     margin-top: -35px;
@@ -144,19 +135,11 @@ color: black;
     0 0 20px rgb(255, 255, 255),
     0 0 30px rgb(21, 255, 0);
 }
-
-
-
-
-
-
-
 .telefono{
    color: rgb(18, 18, 198);
     font-size: 23px;
     margin-top: -35px;
 }
-
 .telefono2{
   position: absolute;
   left: 50px;
@@ -168,9 +151,6 @@ color: black;
     0 0 20px rgb(255, 255, 255),
     0 0 30px rgb(255, 255, 255);
 }
-
-
-
 .ubicacion{
     color: #ca1717;
     margin-top: -30px;
@@ -187,6 +167,3 @@ color: black;
     0 0 20px rgb(255, 255, 255),
     0 0 30px rgb(255, 0, 0);
 }
-
-
-
